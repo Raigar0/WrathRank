@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: WrathRank
+## Notes: Compare gear using talent-based stat weights. Type /wr for settings.
+## Version: 0.4.1
+## SavedVariablesPerCharacter: WrathRankDB
+
+WrathRank.lua
+Options.lua
